@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/giri-og/static/css/main.e0fbba0b.css",
-    "main.js": "/giri-og/static/js/main.ef4c3bc6.js",
+    "main.js": "/giri-og/static/js/main.c80b49ee.js",
     "static/js/453.419a5d54.chunk.js": "/giri-og/static/js/453.419a5d54.chunk.js",
     "static/media/mm.png": "/giri-og/static/media/mm.fe0f4ef884d694ee999f.png",
     "index.html": "/giri-og/index.html",
     "main.e0fbba0b.css.map": "/giri-og/static/css/main.e0fbba0b.css.map",
-    "main.ef4c3bc6.js.map": "/giri-og/static/js/main.ef4c3bc6.js.map",
+    "main.c80b49ee.js.map": "/giri-og/static/js/main.c80b49ee.js.map",
     "453.419a5d54.chunk.js.map": "/giri-og/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0fbba0b.css",
-    "static/js/main.ef4c3bc6.js"
+    "static/js/main.c80b49ee.js"
   ]
 }
