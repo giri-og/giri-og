@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/giri-og/static/css/main.e0fbba0b.css",
-    "main.js": "/giri-og/static/js/main.ff5579ac.js",
+    "main.css": "/giri-og/static/css/main.94f24d10.css",
+    "main.js": "/giri-og/static/js/main.70700217.js",
     "static/js/453.419a5d54.chunk.js": "/giri-og/static/js/453.419a5d54.chunk.js",
     "static/media/mm.png": "/giri-og/static/media/mm.fe0f4ef884d694ee999f.png",
     "static/media/python_es-2.pdf": "/giri-og/static/media/python_es-2.453740566e582febd923.pdf",
@@ -16,12 +16,12 @@
     "static/media/Project_signature_verification.jpg": "/giri-og/static/media/Project_signature_verification.63579311b6a67dfa786e.jpg",
     "static/media/voice_translator.jpg": "/giri-og/static/media/voice_translator.5844a684b23b1fa9024d.jpg",
     "index.html": "/giri-og/index.html",
-    "main.e0fbba0b.css.map": "/giri-og/static/css/main.e0fbba0b.css.map",
-    "main.ff5579ac.js.map": "/giri-og/static/js/main.ff5579ac.js.map",
+    "main.94f24d10.css.map": "/giri-og/static/css/main.94f24d10.css.map",
+    "main.70700217.js.map": "/giri-og/static/js/main.70700217.js.map",
     "453.419a5d54.chunk.js.map": "/giri-og/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0fbba0b.css",
-    "static/js/main.ff5579ac.js"
+    "static/css/main.94f24d10.css",
+    "static/js/main.70700217.js"
   ]
 }
