@@ -1,19 +1,27 @@
 {
   "files": {
     "main.css": "/giri-og/static/css/main.e0fbba0b.css",
-    "main.js": "/giri-og/static/js/main.558ef0dd.js",
+    "main.js": "/giri-og/static/js/main.ff5579ac.js",
     "static/js/453.419a5d54.chunk.js": "/giri-og/static/js/453.419a5d54.chunk.js",
     "static/media/mm.png": "/giri-og/static/media/mm.fe0f4ef884d694ee999f.png",
+    "static/media/python_es-2.pdf": "/giri-og/static/media/python_es-2.453740566e582febd923.pdf",
+    "static/media/python_es-1.pdf": "/giri-og/static/media/python_es-1.620fb3b95643edffbd72.pdf",
+    "static/media/campus_ambasdor.jpg": "/giri-og/static/media/campus_ambasdor.2fa87d833d6734932f6e.jpg",
+    "static/media/Unstop_certificate.jpg": "/giri-og/static/media/Unstop_certificate.b4f23e1e7b74938023f6.jpg",
+    "static/media/pixle.jpg": "/giri-og/static/media/pixle.2019505114dc0d85ea10.jpg",
+    "static/media/hp_life.jpg": "/giri-og/static/media/hp_life.3136d60f13676058ec18.jpg",
+    "static/media/SQL_advanced.jpg": "/giri-og/static/media/SQL_advanced.9c36a314bd348ad647bf.jpg",
+    "static/media/aws.jpg": "/giri-og/static/media/aws.91134f5e2472ebb6c097.jpg",
     "static/media/resume_match.jpg": "/giri-og/static/media/resume_match.ceb47faff4a3181526ef.jpg",
     "static/media/Project_signature_verification.jpg": "/giri-og/static/media/Project_signature_verification.63579311b6a67dfa786e.jpg",
     "static/media/voice_translator.jpg": "/giri-og/static/media/voice_translator.5844a684b23b1fa9024d.jpg",
     "index.html": "/giri-og/index.html",
     "main.e0fbba0b.css.map": "/giri-og/static/css/main.e0fbba0b.css.map",
-    "main.558ef0dd.js.map": "/giri-og/static/js/main.558ef0dd.js.map",
+    "main.ff5579ac.js.map": "/giri-og/static/js/main.ff5579ac.js.map",
     "453.419a5d54.chunk.js.map": "/giri-og/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0fbba0b.css",
-    "static/js/main.558ef0dd.js"
+    "static/js/main.ff5579ac.js"
   ]
 }
